@@ -396,7 +396,7 @@
          <img src="https://www.staffjoy.com/static/images/homepage/schedule.png">
       </div>
      
-       <div class="col-sm-6">
+       <div class="col-sm-6">      
           <h3><strong>Search our staffers availability instantly.</strong></h3>
           <p>View our staffers availability and simply schedule them for shifts, and they will confirm from their mobile device and show up ready-to work.</p>
           <button><p1>Schedule a staffer</p1></button>
@@ -445,7 +445,7 @@
        <center><h1>We do the busy work for you, so you can focus on the important stuff.</h1></center>
        
              <center><p>Tempsley automates all of the time-consuming work that goes into staffing.
-Now, long processes like onboarding and keeping your roster full take minutes, not days.</center>
+Now, long processes like onboarding and keeping your roster full takes minutes, not days.</center>
              
        <div class="row3">
         <div class="col-xs-6 col-sm-3">
@@ -455,7 +455,7 @@ Now, long processes like onboarding and keeping your roster full take minutes, n
       <center><h3>Staffers are ready to work.</h3></center>
       <p>All our staffers are employed by us which means, they're screened, insured, and trained by us.</p>
     </div>
-    
+                   
     <div class="col-xs-6 col-sm-3">
         <div class="thumbnail">
           <img src="https://p-handy.hbfiles.com/assets/landing-page/value-pros-7d4f63411fb0650f0ea27513edd4d997.png">
